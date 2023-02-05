@@ -1,6 +1,6 @@
 Here you can play some Newgrounds Madness games.
 
-![maxresdefault (8)](https://user-images.githubusercontent.com/119811205/216838083-6e5ee0e0-2740-4ab8-8337-7600881ee5a5.jpg)
+![images (19)](https://user-images.githubusercontent.com/119811205/216838538-e4151e3c-2363-4660-a1ae-7d13fb461a3f.jpeg)
 Play Madness Accelerant [here](https://hardcoregamer66.github.io/test-2/)
 
 ![download (27)](https://user-images.githubusercontent.com/119811205/216838230-aca6af47-62f6-4cd8-a0c5-49bd4b7011ad.jpeg)
