@@ -1,4 +1,10 @@
-Welcome to HardcoreGamer66's Games!!!!
+Here you can play some Newgrounds Madness games.
 
-![html5_FnfBeatStreetsTricky2_f7a721e408b744f881e039eac7d1574e](https://user-images.githubusercontent.com/119811205/216778077-db44976b-47a2-4adf-ba9e-5c0dfeb64b0d.png)
-Play Friday Night Funkin' vs. Beatstreets Tricky [here](https://hardcoregamer66.github.io/Beatstreets-Tricky-V2-HTML5-port/)!!!!!
+![maxresdefault (8)](https://user-images.githubusercontent.com/119811205/216838083-6e5ee0e0-2740-4ab8-8337-7600881ee5a5.jpg)
+Play Madness Accelerant [here](https://hardcoregamer66.github.io/test-2/)
+
+![download (27)](https://user-images.githubusercontent.com/119811205/216838230-aca6af47-62f6-4cd8-a0c5-49bd4b7011ad.jpeg)
+Play Madness Project Nexus Classic [here](https://hardcoregamer66.github.io/Madness-Project-Nexus-embed/madness-project-nexus.html)
+
+![download (26)](https://user-images.githubusercontent.com/119811205/216838382-31b35665-d9eb-410b-adfe-3a7195bcdafb.jpeg)
+Play Madness Hydraulic [here](https://hardcoregamer66.github.io/test)
